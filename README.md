@@ -1,6 +1,8 @@
 # TensorFlow Lite Object Detection Android - YOLOv11
 
-
+The repo is inconjucntion with the YOLO-Detection repo. 
+The TF lite file sits with in the assats of this app, when the application is running scroll on the menu to select the correct model. 
+![val_batch0_labels](https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90)
 
 ### Overview
 
