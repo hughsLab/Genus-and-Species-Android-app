@@ -1,6 +1,6 @@
 # TensorFlow Lite Object Detection Android - YOLOv11
 
-The repository is in conjunction with the YOLO-Detection repository. The TF Lite file sits within the assets of this app. When the application is running, scroll on the menu to select the correct model. I have broken them down into chunks, clumps of several hundred classes, which is the only way YOLO will detect. Too many classes cause a data insufficiency problem. As it stands currently, I cannot get multiple .tf lite models working through an overlap method in the Android application. Below is an example of the YOLO model solution which sits within this model as a TF Lite file, only a single model.
+The repository is in conjunction with the YOLO-Detection (Plant-detection)repository. The TF Lite file sits within the assets of this app. When the application is running, scroll on the menu to select the correct model. I have broken them down into chunks, clumps of several hundred classes, which is the only way YOLO will detect. Too many classes cause a data insufficiency problem. As it stands currently, I cannot get multiple .tf lite models working through an overlap method in the Android application. Below is an example of the YOLO model solution which sits within this model as a TF Lite file, only a single model.
 
 ![val_batch0_labels](https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90)
 
