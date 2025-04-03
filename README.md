@@ -31,7 +31,6 @@ model trained on the [COCO dataset](http://cocodataset.org/).
 
 
 
-## Build the demo using Android Studio
 
 
 
